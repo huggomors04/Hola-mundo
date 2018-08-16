@@ -1,5 +1,5 @@
 using System;
-class HolaMundo{
+class HelloWorld{
 
     static int suma(int a, int b){
         return a + b;
