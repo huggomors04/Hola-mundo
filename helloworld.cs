@@ -36,6 +36,6 @@ class HelloWorld{
 }
 
 /*
-**Using es el equivalente a import
+**Using es el equivalente a import en java
 **Main con m mayúscula
 */
